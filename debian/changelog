@@ -1,4 +1,4 @@
-golang-1.18 (1.18.4-1~bpo11+1pexip1) pexip; urgency=medium
+golang-1.18 (1.18.4-1~bpo11+1pexip1) pexip-bullseye; urgency=medium
 
   * Prepare Pexip packaging
 
