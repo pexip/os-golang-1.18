@@ -1,3 +1,9 @@
+golang-1.18 (1.18.6-1~bpo11+1pexip1) pexip; urgency=medium
+
+  * New upstream release.
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Mon, 10 Oct 2022 16:47:16 +0100
+
 golang-1.18 (1.18.6-1~bpo11+1) bullseye-backports; urgency=medium
 
   * Rebuild for bullseye-backports.
