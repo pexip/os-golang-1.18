@@ -1,3 +1,9 @@
+golang-1.18 (1.18.6-1~bpo11+1pexip2) pexip-bookworm; urgency=medium
+
+  * Initial bookworm build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 16 Nov 2023 10:00:32 +0000
+
 golang-1.18 (1.18.6-1~bpo11+1pexip1) pexip; urgency=medium
 
   * New upstream release.
